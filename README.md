@@ -81,4 +81,3 @@ flowchart LR
 
 **Impact:**
 - Company-wide reach and reusable training assets that improved baseline security awareness.
----
