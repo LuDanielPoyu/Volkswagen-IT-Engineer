@@ -45,7 +45,7 @@ flowchart LR
 ---
 
 ### P2 — Purchase Confirmation RPA
-**Problem:**  Manual CRM purchase confirmations process were error-prone and time-consuming because it requires manual entry.
+**Problem:**  Manual CRM purchase confirmations process was error-prone and time-consuming because it requires manual entry.
 
 **Solution:** Built a Power Automate workflow (automated bot) with **approvals, logging, and alerts**; integrated Outlook and Teams for status visibility and notifications.
 
@@ -71,7 +71,7 @@ flowchart LR
 ---
 
 ### P3 — Security Awareness and Workshops
-**Problem:** Patchy security habits across all company's employers.
+**Problem:** Patchy security habits across all company's employees.
 
 **Solution:** Designed and distributed weekly security posters to all employees and hosted 3 internal workshops on information security.
 
