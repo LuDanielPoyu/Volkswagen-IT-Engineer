@@ -1,6 +1,7 @@
 # Volkswagen-IT-Engineer
 
 **Role:** IT Engineer (Part-Time: 24 hrs/wk)  
+
 **When:** July 2023 – Dec. 2023 · **Location:** Taipei, Taiwan  
 
 > **Disclaimer:** This portfolio uses sanitized descriptions and **synthetic examples only**.  
